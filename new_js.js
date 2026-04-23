@@ -54,7 +54,7 @@ function playMusic(track){
     currentsong.play(); 
     playbtn.src = 'spotify Clone/pause.svg';
 
-    let track2 = track.replaceAll('%20', ' ').split(',');
+    let track2 = track.replaceAll('%20', ' ').split('128');
     document.getElementsByClassName('songinfo')[0].innerHTML = track2[0];
     console.log(track2[0]);
 }
