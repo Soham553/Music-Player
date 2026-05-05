@@ -1,5 +1,3 @@
-Here’s a clean, copy-paste-ready README for a music player project. I’ll keep it generic but professional so it fits most implementations (you can adjust tech stack if needed).
-
 # 🎵 Music Player
 
 ## Overview
