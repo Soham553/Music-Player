@@ -135,7 +135,7 @@ Track progress dynamically.
 
 ## Screenshots
 
-
+![UI](https://github.com/Soham553/Music-Player/blob/main/Screenshot%202025-07-12%20194316.png)
 
 ---
 
